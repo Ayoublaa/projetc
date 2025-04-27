@@ -6,7 +6,7 @@
 typedef struct {
     int jj, mm, aa;
 } Date;
-
+//by ayoub laafar
 typedef struct {
     int ID;
     char Nom[50];
